@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །སྡོམ་པ་གསུམ་གྱི་རབ་ཏུ་དབྱེ་བའི་ཁ་སྐོང་གཞི་ལམ་འབྲས་གསུམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་འོད་ཀྱི་སྣང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  sku: IBA-GR-05-1
+  layers:
+  - book_title
+  - author
+  - yigchung
+web_metadata:
+  title:
+    en: Wondrous Light for Clarifying the Ground, Path and Fruition:A Supplement Classifying
+      the Three Vows
+    bo: སྡོམ་པ་གསུམ་གྱི་རབ་ཏུ་དབྱེ་བའི་ཁ་སྐོང་གཞི་ལམ་འབྲས་གསུམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་འོད་ཀྱི་སྣང་བ།
+  collection:
+    en: IBA Gorampa Series–  Book 5
+    bo: གོ་རམས་པ་བསོད་ནམས་སེང་གེ་རྩོམ་བྲིས།–  དེབ། ༥
+  author:
+    en: Gorampa Sonam Senge
+    bo: གོ་རམས་པ་བསོད་ནམས་སེང་གེ
+  pusblisher:
+    en: IBA Publications
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་།
+  sku: IBA-GR-05-1
+  category:
+    en: Three Vows
+    bo: སྡོམ་གསུམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: IBA-GR-05-1.epub
+  description:
+    en: This exposition greatly emphasizing the aspects of Basis, Path and Results
+      is based on one of the vital text by Great Sakya Pandita known by the title
+      ofClear Distinctions of the Three Vows.
+    bo: སྡོམ་གསུམ་ཁ་སྐོང་འདི་ནི་ཆོས་རྗེ་ས་པཎ་གྱི་སྡོམ་གསུམ་རབ་དབྱེ་ལ་དམིགས་ཏེ་ཀུན་མཁྱེན་ཆེན་པོས་མཛད་པའི་རྣམ་དཔྱོད་ཕུལ་བྱུང་ལྡན་པའི་རང་རྩལ་ཞིག་ཡིན།
