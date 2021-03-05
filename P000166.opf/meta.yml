@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000166
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྡོམ་པ་གསུམ་གྱི་རབ་ཏུ་དབྱེ་བའི་ཁ་སྐོང་གཞི་ལམ་འབྲས་གསུམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་འོད་ཀྱི་སྣང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
-  sku: IBA-GR-05-1
   layers:
   - book_title
   - author
   - yigchung
+  id: IBA-GR-05-1
 web_metadata:
   title:
     en: Wondrous Light for Clarifying the Ground, Path and Fruition:A Supplement Classifying
